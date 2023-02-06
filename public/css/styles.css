@@ -1,6 +1,7 @@
 body{
     background: var(--primary-color);
     margin:0px;
+    width:100%;
     
 
 }
@@ -226,5 +227,8 @@ box-shadow: 0px -5px 11px -3px rgba(115,111,115,0.84);
   .copy h3{
   font-size: 14px;
   }
+    
+  
+    
 }
 
