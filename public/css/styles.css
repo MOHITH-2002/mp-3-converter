@@ -159,7 +159,7 @@ button:hover{
     color:red;
     font-size: 28px;
 }
-.footer{
+#footer{
   display: flex;
   align-items:center;
   justify-content: space-between;
@@ -227,3 +227,4 @@ box-shadow: 0px -5px 11px -3px rgba(115,111,115,0.84);
   font-size: 14px;
   }
 }
+
