@@ -8,12 +8,12 @@ body{
 
 :root {
     --primary-color:#ECECEC;
-       --secondary-color:#3C4048;
+       --secondary-color:#080808;
   }
   
   .darkmode{
-    --primary-color:#3C4048;
-        --secondary-color:white;
+    --primary-color:#080808;
+        --secondary-color:#ECECEC;
   }
   
   
